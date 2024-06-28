@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="lyrics_line_margin_horiz">20dp</dimen>
+    <dimen name="lyrics_text_padding_horiz">12dp</dimen>
+    <dimen name="lyrics_text_padding_top">2dp</dimen>
+    <dimen name="lyrics_text_padding_bottom">10dp</dimen>
+    <dimen name="lyrics_line_between_line_spacing">32dp</dimen>
+
+    <item type="dimen" format="float" name="player_vibrant_primary_alpha">0.94</item>
+    <item type="dimen" format="float" name="player_vibrant_tertiary_alpha">0.18</item>
+
+    <item name="lyrics_line_scale_highlight" type="dimen" format="float">1</item>
+    <item name="lyrics_line_scale_normal" type="dimen" format="float">.85</item>
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" itunes:timing="Line" xml:lang="en">
+  <head>
+    <metadata>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal">
+        <songwriters>
+          <songwriter>Anthony Newley</songwriter>
+          <songwriter>Leslie Bricusse</songwriter>
+        </songwriters>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="00:03:54.001">
+    <div begin="00:00:02.318" end="00:00:25.201" itunes:songPart="Intro">
+      <p begin="00:00:02.318" end="00:00:10.067">Birds flying high, you know how I feel</p>
+      <p begin="00:00:10.067" end="00:00:16.963">Sun up in the sky, you know how I feel</p>
+      <p begin="00:00:16.963" end="00:00:25.201">Breeze driftin' on by, you know how I feel</p>
+    </div>
+    <div begin="00:00:25.201" end="00:01:08.600" itunes:songPart="Refrain">
+      <p begin="00:00:25.201" end="00:00:27.852">It's a new dawn</p>
+      <p begin="00:00:27.852" end="00:00:30.142">It's a new day</p>
+      <p begin="00:00:30.142" end="00:00:35.615">It's a new life for me, yeah</p>
+      <p begin="00:00:35.615" end="00:00:37.414">It's a new dawn</p>
+      <p begin="00:00:37.414" end="00:00:39.036">It's a new day</p>
+      <p begin="00:00:39.036" end="00:00:50.155">It's a new life for me, ooh</p>
+      <p begin="00:00:50.155" end="00:00:57.849">And I'm feeling good</p>
+      <p begin="00:00:57.849" end="00:01:08.600">Yeah, yeah, yeah</p>
+    </div>
+    <div begin="00:01:08.600" end="00:01:26.302" itunes:songPart="Verse">
+      <p begin="00:01:08.600" end="00:01:15.172">Fish in the sea, you know how I feel</p>
+      <p begin="00:01:15.172" end="00:01:21.045">River running free, you know how I feel</p>
+      <p begin="00:01:21.045" end="00:01:26.302">Blossom on the tree, you know how I feel</p>
+    </div>
+    <div begin="00:01:26.302" end="00:01:42.713" itunes:songPart="Refrain">
+      <p begin="00:01:26.302" end="00:01:27.664">It's a new dawn</p>
+      <p begin="00:01:27.664" end="00:01:29.215">It's a new day</p>
+      <p begin="00:01:29.215" end="00:01:34.664">It's a new life for me</p>
+      <p begin="00:01:34.664" end="00:01:42.713">And I'm feeling good</p>
+    </div>
+    <div begin="00:01:42.713" end="00:02:14.990" itunes:songPart="Verse">
+      <p begin="00:01:42.713" end="00:01:49.165">Dragonfly out in the sun, you know what I mean, don't you know?</p>
+      <p begin="00:01:49.165" end="00:01:54.962">Butterflies all havin' fun, you know what I mean</p>
+      <p begin="00:01:54.962" end="00:02:00.614">Sleep in peace when day is done, that's what I mean</p>
+      <p begin="00:02:00.614" end="00:02:03.514">And this old world is a new world</p>
+      <p begin="00:02:03.514" end="00:02:08.540">And a bold world, for me</p>
+      <p begin="00:02:08.540" end="00:02:14.990">Oh yeah, oh, yeah, yeah</p>
+    </div>
+    <div begin="00:02:14.990" end="00:02:20.338" itunes:songPart="Instrumental"/>
+    <div begin="00:02:20.338" end="00:02:37.830" itunes:songPart="Bridge">
+      <p begin="00:02:20.338" end="00:02:26.872">Stars when you shine, you know how I feel</p>
+      <p begin="00:02:26.872" end="00:02:31.549">Scent of the pine, oh, you know how I feel</p>
+      <p begin="00:02:31.549" end="00:02:35.228">Oh, freedom is mine</p>
+      <p begin="00:02:35.228" end="00:02:37.830">That's how I feel, yeah</p>
+    </div>
+    <div begin="00:02:37.830" end="00:02:56.578" itunes:songPart="Refrain">
+      <p begin="00:02:37.830" end="00:02:39.377">It's a new dawn</p>
+      <p begin="00:02:39.377" end="00:02:40.876">It's a new day</p>
+      <p begin="00:02:40.876" end="00:02:56.578">It's a new life for me</p>
+    </div>
+    <div begin="00:02:56.578" end="00:03:26.550" itunes:songPart="Outro">
+      <p begin="00:02:56.578" end="00:03:10.526">And I'm feeling good</p>
+      <p begin="00:03:10.526" end="00:03:18.103">Oh yeah, yeah, yeah, yeah</p>
+      <p begin="00:03:18.103" end="00:03:26.550">Feeling good, oh</p>
+    </div>
+  </body>
+</tt>

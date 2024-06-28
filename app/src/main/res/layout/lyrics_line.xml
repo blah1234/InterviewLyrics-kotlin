@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <import type="androidx.core.content.res.ResourcesCompat" />
+
+        <import type="com.example.interviewlyrics.R" />
+
+
+        <variable
+            name="highlighted"
+            type="Boolean" />
+
+        <variable
+            name="highlightScale"
+            type="Float" />
+
+        <variable
+            name="normalScale"
+            type="Float" />
+
+    </data>
+
+
+    <FrameLayout
+        android:id="@+id/song_lyrics_line_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/lyrics_line_margin_horiz"
+        android:layout_marginEnd="@dimen/lyrics_line_margin_horiz"
+        android:paddingStart="@dimen/lyrics_text_padding_horiz"
+        android:paddingEnd="@dimen/lyrics_text_padding_horiz"
+        android:paddingTop="@dimen/lyrics_text_padding_top"
+        android:paddingBottom="@dimen/lyrics_text_padding_bottom">
+        <!-- Top and bottom margins set dynamically in LyricsLineDecoration. -->
+        <!-- Padding combined with margins in order to give the touch ripple background some space -->
+
+
+        <TextView
+            android:id="@+id/song_lyrics_line"
+            android:textStyle="bold"
+            android:textSize="34sp"
+            android:textDirection="anyRtl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textIsSelectable="false"
+            android:textColor="@android:color/black"
+            android:alpha="@{highlighted ? ResourcesCompat.getFloat(context.resources, R.dimen.player_vibrant_primary_alpha) : ResourcesCompat.getFloat(context.resources, R.dimen.player_vibrant_tertiary_alpha)}"
+            android:scaleX="@{highlighted ? highlightScale : normalScale}"
+            android:scaleY="@{highlighted ? highlightScale : normalScale}" />
+
+    </FrameLayout>
+
+</layout>
+
